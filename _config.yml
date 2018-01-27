@@ -1,3 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
 title: NGC 891
 include: ["_pages"]
+
+author:
+  name: "NGC 891"
+  avatar: "/assets/profile.jpg"
+  bio: "A galaxy far far away"

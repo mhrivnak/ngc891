@@ -3,6 +3,8 @@ layout: single
 permalink: /
 ---
 
+stuff
+
 # Hello, ChickTech!!!
 
 Thanks for coming.
